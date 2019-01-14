@@ -6,7 +6,7 @@
 ### IOE ERC20 Automatic trading dApp : https://ioelink.net/?page=trade&invite=&
 
 # contact us
-Looking for a translation? We have several translated versions of the guide here. You can find a guide to our other languages here [Other Language Guides](https://github.com/IOElinkio/dApp-Quick-Start-Guide)!
+
 
 Have feedback? If you have bug reports, website feedback or application ideas, please let us know by:
 
